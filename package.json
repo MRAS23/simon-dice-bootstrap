@@ -1,0 +1,22 @@
+{
+  "name": "simon-dice-bootstrap",
+  "version": "1.0.0",
+  "description": "juego simon dice realizado empleando los conceptos aprendidos en el curso argentina-programa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRAS23/simon-dice-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRAS23/simon-dice-bootstrap/issues"
+  },
+  "homepage": "https://github.com/MRAS23/simon-dice-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
