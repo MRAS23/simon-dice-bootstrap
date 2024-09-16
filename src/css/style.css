@@ -1,0 +1,46 @@
+html {
+  font-size: 32px;
+}
+
+body {
+  background-color: rgb(196, 196, 196) !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-flex {
+  margin-top: 50px;
+}
+
+.container-md {
+  margin-top: 50px;
+}
+
+.square {
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+#square-1 {
+  background-color: red;
+}
+
+#square-2 {
+  background-color: blue;
+}
+
+#square-3 {
+  background-color: yellow;
+}
+
+#square-4 {
+  background-color: green;
+}
+
+/* .hidden {
+  display: none;
+} */
